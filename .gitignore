@@ -1,0 +1,15 @@
+build/
+*.apk
+*.apk.idsig
+debug.keystore
+*.log
+*.db
+*.sql
+*.txt
+*.png
+*.xml
+!AndroidManifest.xml
+# third-party, not redistributed here
+tools/classes.jar
+tools/api-102.aar
+tools/api/
